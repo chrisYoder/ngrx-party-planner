@@ -1,0 +1,1 @@
+# ngrx-party-planner
